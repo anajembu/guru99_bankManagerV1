@@ -1,0 +1,9 @@
+com\guru99_bankManager\testCases\BaseClass.class
+com\guru99_bankManager\pageObjects\AddCustomerPage.class
+com\guru99_bankManager\testCases\TC_LoginTest_001.class
+com\guru99_bankManager\utilities\ReadConfig.class
+com\guru99_bankManager\testCases\TC_LoginDDT_002.class
+com\guru99_bankManager\utilities\XLUtils.class
+com\guru99_bankManager\pageObjects\LoginPage.class
+com\guru99_bankManager\utilities\Reporting.class
+com\guru99_bankManager\testCases\TC_AddCustomerTest_003.class
