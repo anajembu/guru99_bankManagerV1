@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="guru99_bankManager_V1" duration-ms="44041" started-at="2020-01-29T14:34:35 GMT" finished-at="2020-01-29T14:35:19 GMT">
+  <suite name="guru99_bankManager_V1" duration-ms="32031" started-at="2020-02-04T11:09:06 GMT" finished-at="2020-02-04T11:09:38 GMT">
     <groups>
     </groups>
-    <test name="BankingApp Test" duration-ms="44041" started-at="2020-01-29T14:34:35 GMT" finished-at="2020-01-29T14:35:19 GMT">
-      <class name="com.guru99_bankManager.testCases.TC_AddCustomerTest_003">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99_bankManager.testCases.TC_AddCustomerTest_003@6895a785]" name="setUp" is-config="true" duration-ms="10332" started-at="2020-01-29T14:34:35 GMT" finished-at="2020-01-29T14:34:46 GMT">
+    <test name="BankingApp Test" duration-ms="32031" started-at="2020-02-04T11:09:06 GMT" finished-at="2020-02-04T11:09:38 GMT">
+      <class name="com.guru99_bankManager.testCases.TC_EditCustomerTest_004">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99_bankManager.testCases.TC_EditCustomerTest_004@6895a785]" name="setUp" is-config="true" duration-ms="8092" started-at="2020-02-04T11:09:06 GMT" finished-at="2020-02-04T11:09:14 GMT">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.guru99_bankManager.testCases.TC_AddCustomerTest_003@6895a785]" name="addNewCustomer" duration-ms="31436" started-at="2020-01-29T14:34:46 GMT" finished-at="2020-01-29T14:35:17 GMT">
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.guru99_bankManager.testCases.TC_EditCustomerTest_004@6895a785]" name="addNewCustomer" duration-ms="21956" started-at="2020-02-04T11:09:14 GMT" finished-at="2020-02-04T11:09:36 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addNewCustomer -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99_bankManager.testCases.TC_AddCustomerTest_003@6895a785]" name="tearDown" is-config="true" duration-ms="1449" started-at="2020-01-29T14:35:17 GMT" finished-at="2020-01-29T14:35:19 GMT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99_bankManager.testCases.TC_EditCustomerTest_004@6895a785]" name="tearDown" is-config="true" duration-ms="1373" started-at="2020-02-04T11:09:36 GMT" finished-at="2020-02-04T11:09:38 GMT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.guru99_bankManager.testCases.TC_AddCustomerTest_003 -->
+      </class> <!-- com.guru99_bankManager.testCases.TC_EditCustomerTest_004 -->
     </test> <!-- BankingApp Test -->
   </suite> <!-- guru99_bankManager_V1 -->
 </testng-results>
