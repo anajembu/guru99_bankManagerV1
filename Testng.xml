@@ -13,8 +13,9 @@
 		<classes>
 			<!--  <class name="com.guru99_bankManager.testCases.TC_LoginTest_001" />-->
 			<!--   <class name="com.guru99_bankManager.testCases.TC_LoginDDT_002" />-->
-			 <!--<class name="com.guru99_bankManager.testCases.TC_AddCustomerTest_003" /> -->
-			 <class name="com.guru99_bankManager.testCases.TC_EditCustomerTest_004" />
+			  <class name="com.guru99_bankManager.testCases.TC_AddCustomerTest_003" /> 
+			  <class name="com.guru99_bankManager.testCases.TC_EditCustomerTest_004" /> 
+			  <class name="com.guru99_bankManager.testCases.TC_DeleteCustomerTest_005" />
 
 		</classes>
 
