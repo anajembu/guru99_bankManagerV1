@@ -7,13 +7,13 @@
   <test thread-count="5" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.guru99_bankManager.testCases.TC_EditCustomerTest_004">
+      <class name="com.guru99_bankManager.testCases.TC_DeleteCustomerTest_005">
         <methods>
           <include name="setUp"/>
+          <include name="deleteCustomer"/>
           <include name="tearDown"/>
-          <include name="addNewCustomer"/>
         </methods>
-      </class> <!-- com.guru99_bankManager.testCases.TC_EditCustomerTest_004 -->
+      </class> <!-- com.guru99_bankManager.testCases.TC_DeleteCustomerTest_005 -->
     </classes>
   </test> <!-- BankingApp Test(failed) -->
 </suite> <!-- Failed suite [guru99_bankManager_V1] -->
